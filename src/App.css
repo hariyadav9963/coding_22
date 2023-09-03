@@ -11,4 +11,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* Write your CSS code here */
+.bg-container {
+  width: 1512px;
+  height: 5546px;
+}
